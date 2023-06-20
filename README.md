@@ -36,5 +36,3 @@ yarn hardhat deploy --network sepolia
 前往https://keepers.chain.link/ 并注册新的Upkeep。选择Custom logic作为自动化的触发机制。
 ## Screenshots
 
-![Alt text]("C:\Users\haoru\Desktop\微信图片_20230621130159.png")
-
