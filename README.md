@@ -34,5 +34,5 @@ yarn hardhat deploy --network sepolia
 返回https://vrf.chain.link/ 并在您的订阅下添加Add consumer并添加您的合约地址。
 ### 5. 注册Chainlink Keepers Upkeep
 前往https://keepers.chain.link/ 并注册新的Upkeep。选择Custom logic作为自动化的触发机制。
-## Screenshots
+
 
